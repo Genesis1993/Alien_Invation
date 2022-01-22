@@ -36,8 +36,7 @@ while Running:
     print(bullets)
     gf.update_screen(ship,bullets)
     pygame.display.flip()
-
-
+# git bracnh
 
 
 
