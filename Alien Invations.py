@@ -4,6 +4,9 @@ from screen_settings import Settings
 from ship_settings import Ship
 import game_functions as gf
 
+
+##Trial changes for git demo
+
 FPS = 100
 pygame.init()
 screensettings = Settings()
